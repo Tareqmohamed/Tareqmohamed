@@ -22,6 +22,7 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> An DevOps Engineer👩‍💻, An Open Source Contributor,  CS Student 💻  & A Competitive Programmer </samp></h4></p>
+<img align="right" src="https://giphy.com/embed/8L0Pky6C83SzkzU55a" width="40%"/>
 
 
 
@@ -35,6 +36,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-013243?style=flat-square&logo=Bash&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
