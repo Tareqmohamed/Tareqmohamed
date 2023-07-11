@@ -33,7 +33,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-013243?style=flat-square&logo=Bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-013243?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-013243?style=flat-square&logo=Linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-013243?style=flat-square&logo=Docker&logoColor=white)
 
@@ -69,6 +69,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/Tareqmohamed/Tareqmohamed/blob/main/img/django.svg" alt="drawing" width="55"/>
+<img src="https://github.com/Tareqmohamed/Tareqmohamed/blob/main/img/aws.svg" alt="drawing" width="55"/>
 </span>
   
 
