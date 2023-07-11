@@ -70,12 +70,11 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/Tareqmohamed/Tareqmohamed/blob/main/img/django.svg" alt="drawing" width="55"/>
 </span>
-<hr> 
   
 
-<br>
+## <p align="left"><h3 align="left"><samp>Quotes</samp></h3></p>
 </a>
 
 <a href="https://github.com/Tareqmohamed">
-  <img align="center" alt="Tarek Mohamed" width="80%" src="https://github.com/Tareqmohamed/Tareqmohamed/blob/main/img/output-seotoolscentre.png" />
+  <img align="center" alt="Tarek Mohamed" width="65%" src="https://github.com/Tareqmohamed/Tareqmohamed/blob/main/img/output-seotoolscentre.png" />
 </a>
