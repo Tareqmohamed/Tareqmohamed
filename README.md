@@ -18,7 +18,7 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> An DevOps Engineer👩‍💻, An Open Source Contributor,  CS Student 💻  & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A DevOps Engineer👩‍💻, An Open Source Contributor,  CS Student 💻  & A Competitive Programmer </samp></h4></p>
 <img align="right" src="https://github.com/Tareqmohamed/Tareqmohamed/blob/main/img/Devops-mario.gif" width="40%"/>
 
 
