@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [Tarek Mohamed(طَارِق مُحَمَّد)](https://github.com/Tareqmohamed)
 ### "أُحِبُّ الصالِحينَ وَلَستُ مِنهُم لَعَلّي أَن أَنالَ بِهِم شَفاعَه وَأَكرَهُ مَن تِجارَتُهُ المَعاصي وَلَو كُنّا سَواءً في البِضاعَه"
 <br>
-<a href="https://www.linkedin.com/in/tarek-mohamad-16b725200/">
+<a href="https://www.linkedin.com/in/tareqmohamad/">
   <img align="left" alt="Tarek's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Tareqmohamed">
